@@ -1,7 +1,7 @@
 # menu-05
 React mini project
 
-#to run the project
+# to run the project
 
 npn install && npm start
 
